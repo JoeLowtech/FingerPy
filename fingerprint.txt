@@ -1,0 +1,27 @@
+Produktbeschreibung:
+The fingerprint module from ADH-Tech communicates over TTL Serial so you 
+can easily embed it into your next project. The module itself does all of 
+the heavy lifting behind reading and identifying the fingerprints with an 
+on-board optical sensor and 32-bit CPU. All you need to do is send it simple 
+commands. To get started, just register each fingerprint that you want to 
+store by sending the corresponding command and pressing your finger against 
+the reader three times. The fingerprint scanner can store different fingerprints 
+and the database of prints can even be downloaded from the unit and distributed 
+to other modules. As well as the fingerprint "template," the analyzed version 
+of the print, you can also retrieve the image of a fingerprint and even pull 
+raw images from the optical sensor. The module can store up to 200 different 
+fingerprints. It is small and easy to mount using two mounting tabs on the 
+side of the sensor. The on-board JST-SH connector has four signals: Vcc, GND, 
+Tx, Rx. 
+
+
+Features:
+    Dimensions: 37 x 17 x 9.5 mm
+    High-Speed, High-Accuracy Fingerprint Identification using the SmackFinger 3.0 Algorithm
+    Download Fingerprint Images from the Device
+    Read and Write Fingerprint Templates and Databases
+    Simple UART protocol (Default 9600 baud)
+    Capable of 1:1 Verification and 1:N Identification
+
+Anschlusskabel:
+JST SH cable, 1mm Pinabstand
